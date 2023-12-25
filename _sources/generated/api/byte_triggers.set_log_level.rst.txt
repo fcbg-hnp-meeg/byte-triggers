@@ -1,0 +1,6 @@
+﻿byte\_triggers.set\_log\_level
+==============================
+
+.. currentmodule:: byte_triggers
+
+.. autofunction:: set_log_level

@@ -1,0 +1,8 @@
+﻿byte\_triggers.LSLTrigger
+=========================
+
+.. currentmodule:: byte_triggers
+
+.. autoclass:: LSLTrigger
+   :members:
+   :inherited-members:
