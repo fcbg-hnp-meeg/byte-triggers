@@ -1,0 +1,6 @@
+﻿byte\_triggers.add\_file\_handler
+=================================
+
+.. currentmodule:: byte_triggers
+
+.. autofunction:: add_file_handler
